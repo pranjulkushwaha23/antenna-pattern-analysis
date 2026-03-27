@@ -2,7 +2,7 @@
 % Antenna Pattern Analysis & Comparison
 % Author: Pranjul Kumar
 % Antennas: Patch, Dipole, Yagi, LPDA
-% IIT Jammu M.Tech | Enercomp Solutions Pvt. Ltd.
+% IIT Jammu M.Tech
 % =========================================================
 
 clc; clear; close all;
